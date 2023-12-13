@@ -1,5 +1,5 @@
 {
-    "name": "StarNGK/http-foundation",
+    "name": "starngk/http-foundation",
     "replace": {
         "symfony/http-foundation":"v5.4.*"
     },
