@@ -1,5 +1,8 @@
 {
-    "name": "symfony/http-foundation",
+    "name": "starngk/http-foundation",
+    "replace": {
+        "symfony/http-foundation":"v6.2.*"
+    },
     "type": "library",
     "description": "Defines an object-oriented layer for the HTTP specification",
     "keywords": [],
